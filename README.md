@@ -26,8 +26,8 @@ I believe in the power of collaboration and the magic that happens when creativi
 
 ### 📫 Connect with Me
 
-- 🌐 [Portfolio] (https://portfolio-of-asadbek.netlify.app): Explore more of my enchanted creations.
-- 💼 [LinkedIn] (www.linkedin.com/in/asadbek-abdusalomov-30a201257): Let's connect professionally.
-- 🛩️ [Telegram] (https://t.me/Asadbek_0920): Join me on this whimsical journey.
+- 🌐 [Portfolio](https://portfolio-of-asadbek.netlify.app): Explore more of my enchanted creations.
+- 💼 [LinkedIn](www.linkedin.com/in/asadbek-abdusalomov-30a201257): Let's connect professionally.
+- 🛩️ [Telegram](https://t.me/Asadbek_0920): Join me on this whimsical journey.
 
 Looking forward to weaving more magic into the digital realm! ✨🚀
