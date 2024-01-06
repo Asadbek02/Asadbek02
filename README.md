@@ -8,8 +8,4 @@
   </p>
   
 ### Connect with me:
-(https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/abdusalamov.02)
-
-### My activity:
-[![Hits](https://hits.sh/github.com/khamdullaevuz.svg)](https://hits.sh/github.com/khamdullaevuz/)
-[![wakatime](https://wakatime.com/badge/user/000c077a-1c2c-49e3-a8de-257586c33f00.svg?sytle=flat)](https://wakatime.com/@000c077a-1c2c-49e3-a8de-257586c33f00)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/abdusalamov.02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/khamdullaevuz](https://www.linkedin.com/in/asadbek-abdusalomov-30a201257)) 
