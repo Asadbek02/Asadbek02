@@ -17,8 +17,8 @@ Hello there! I'm Asadbek, a passionate Full-Stack Web Developer hailing from the
 
 ## 🌟 Current Alchemical Projects
 
-- 🌈 [Project Rainbow](#): Creating a vibrant and dynamic color palette generator.
-- 🚀 [Stellar Explorer](#): Journey through the cosmos with this space-themed website.
+- 🌈 Creating a vibrant and dynamic color palette generator.
+- 🚀 Journey through the cosmos with this space-themed website.
 
 ## 🎨 Let's Create Something Magical!
 
