@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hey+There+👋;My+name+is+Asadbek!;I'm+backend+developer)](https://github.com/asadbek02)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=&color=FFF&center=true&vCenter=true&width=435&lines=Hey+There+👋;My+name+is+Asadbek!;I'm+fullstack+developer)](https://github.com/asadbek02)
 
 ### Tools and Programs:
   <p align="left">
