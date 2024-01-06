@@ -8,4 +8,4 @@
   </p>
   
 ### Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)]([https://instagram.com/abdusalamov.02](https://www.instagram.com/abdusalamov.02/)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/khamdullaevuz](https://www.linkedin.com/in/asadbek-abdusalomov-30a201257/)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/abdusalamov.02?igsh=NzRsYjU2NGtmYWp4) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/asadbek-abdusalomov-30a201257)
